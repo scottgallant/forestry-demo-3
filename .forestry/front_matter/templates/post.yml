@@ -9,7 +9,7 @@ fields:
 - type: text
   name: slug
   label: Slug
-  description: Required. This is used as a path to your page. i.e. "/my-page/"
+  description: Used in the URL for this page. i.e. "/my-page/"
   default: ''
   config:
     required: true
