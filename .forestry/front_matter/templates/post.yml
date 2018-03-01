@@ -7,8 +7,8 @@ fields:
   hidden: false
   default: ''
 - type: text
-  name: slug
-  label: Slug
+  name: permalink
+  label: Permalink
   description: Used in the URL for this page. i.e. "/my-page/"
   default: ''
   config:
