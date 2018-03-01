@@ -7,6 +7,11 @@ fields:
   hidden: false
   default: ''
 - type: text
+  name: slug
+  label: Slug
+  description: Required. This is used as a path to your page. i.e. "/my-page/"
+  default: ''
+- type: text
   label: Sub Heading
   name: sub_heading
   default: ''
