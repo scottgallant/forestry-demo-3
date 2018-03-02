@@ -39,6 +39,8 @@ fields:
     source:
       type: pages
       section: posts
+  default:
+  - _posts/2017-08-22-research.md
 - name: layout
   label: Layout
   type: text
