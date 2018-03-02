@@ -37,8 +37,12 @@ fields:
   config:
     use_select: true
     source:
-      type: pages
+      type: simple
       section: posts
+    options:
+    - one
+    - two
+    - three
   default:
   - _posts/2017-08-22-research.md
 - name: layout
